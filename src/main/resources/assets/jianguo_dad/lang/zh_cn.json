@@ -1,0 +1,8 @@
+{
+  "sound.jianguo_dad.buhenimenwanle": "不给你们玩了！",
+  "message.jianguo_dad.triggered": "%s 开始哇哇大哭，背对着你逃跑了！",
+  "message.jianguo_dad.already_running": "%s 已经在哇哇大哭了，等它跑远一点再试吧。",
+  "message.jianguo_dad.usage": "用法：在聊天栏发送“<生物英文 ID 或中文名的首字>建国是谁的爸爸啊”，例如“苦建国是谁的爸爸啊”或“c建国是谁的爸爸啊”。",
+  "item.jianguo_dad.komeiji_satori_fumo": "古明地觉fumo",
+  "item.jianguo_dad.komeiji_satori_fumo.desc": "鼠标右键可以将附近的生物直接开户"
+}

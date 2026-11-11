@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:netherite_block"
+    }
+  },
+  "result": {
+    "item": "jianguo_dad:komeiji_satori_fumo",
+    "count": 1
+  }
+}

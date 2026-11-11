@@ -1,0 +1,13 @@
+{
+  "buhenimenwanle": {
+    "subtitle": "sound.jianguo_dad.buhenimenwanle",
+    "sounds": [
+      {
+        "name": "jianguo_dad:buhenimenwanle",
+        "stream": true,
+        "preload": true,
+        "attenuation_distance": 64
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "sound.jianguo_dad.buhenimenwanle": "No more playing with you!",
+  "message.jianguo_dad.triggered": "%s bursts into tears and runs away from you!",
+  "message.jianguo_dad.already_running": "%s is already crying and running. Let it get farther away first.",
+  "message.jianguo_dad.usage": "Chat \"<first letter of English ID or Chinese name>建国是谁的爸爸啊\", e.g. \"苦建国是谁的爸爸啊\" or \"c建国是谁的爸爸啊\".",
+  "item.jianguo_dad.komeiji_satori_fumo": "Komeiji Satori Fumo",
+  "item.jianguo_dad.komeiji_satori_fumo.desc": "Right-click to directly \"open accounts\" for nearby creatures"
+}

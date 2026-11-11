@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "jianguo_dad:item/komeiji_satori_fumo"
+  }
+}
